@@ -1,0 +1,15 @@
+C:\myData\git\innovation week\innovation week\Exercisse_01\bin\Debug\net6.0\Exercisse_01.exe
+C:\myData\git\innovation week\innovation week\Exercisse_01\bin\Debug\net6.0\Exercisse_01.deps.json
+C:\myData\git\innovation week\innovation week\Exercisse_01\bin\Debug\net6.0\Exercisse_01.runtimeconfig.json
+C:\myData\git\innovation week\innovation week\Exercisse_01\bin\Debug\net6.0\Exercisse_01.dll
+C:\myData\git\innovation week\innovation week\Exercisse_01\bin\Debug\net6.0\Exercisse_01.pdb
+C:\myData\git\innovation week\innovation week\Exercisse_01\obj\Debug\net6.0\Exercisse_01.csproj.AssemblyReference.cache
+C:\myData\git\innovation week\innovation week\Exercisse_01\obj\Debug\net6.0\Exercisse_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\myData\git\innovation week\innovation week\Exercisse_01\obj\Debug\net6.0\Exercisse_01.AssemblyInfoInputs.cache
+C:\myData\git\innovation week\innovation week\Exercisse_01\obj\Debug\net6.0\Exercisse_01.AssemblyInfo.cs
+C:\myData\git\innovation week\innovation week\Exercisse_01\obj\Debug\net6.0\Exercisse_01.csproj.CoreCompileInputs.cache
+C:\myData\git\innovation week\innovation week\Exercisse_01\obj\Debug\net6.0\Exercisse_01.dll
+C:\myData\git\innovation week\innovation week\Exercisse_01\obj\Debug\net6.0\refint\Exercisse_01.dll
+C:\myData\git\innovation week\innovation week\Exercisse_01\obj\Debug\net6.0\Exercisse_01.pdb
+C:\myData\git\innovation week\innovation week\Exercisse_01\obj\Debug\net6.0\Exercisse_01.genruntimeconfig.cache
+C:\myData\git\innovation week\innovation week\Exercisse_01\obj\Debug\net6.0\ref\Exercisse_01.dll
