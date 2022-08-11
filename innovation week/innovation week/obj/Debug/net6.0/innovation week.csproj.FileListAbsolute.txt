@@ -1,0 +1,15 @@
+C:\myData\git\innovation week\innovation week\innovation week\bin\Debug\net6.0\innovation week.exe
+C:\myData\git\innovation week\innovation week\innovation week\bin\Debug\net6.0\innovation week.deps.json
+C:\myData\git\innovation week\innovation week\innovation week\bin\Debug\net6.0\innovation week.runtimeconfig.json
+C:\myData\git\innovation week\innovation week\innovation week\bin\Debug\net6.0\innovation week.dll
+C:\myData\git\innovation week\innovation week\innovation week\bin\Debug\net6.0\innovation week.pdb
+C:\myData\git\innovation week\innovation week\innovation week\obj\Debug\net6.0\innovation week.csproj.AssemblyReference.cache
+C:\myData\git\innovation week\innovation week\innovation week\obj\Debug\net6.0\innovation week.GeneratedMSBuildEditorConfig.editorconfig
+C:\myData\git\innovation week\innovation week\innovation week\obj\Debug\net6.0\innovation week.AssemblyInfoInputs.cache
+C:\myData\git\innovation week\innovation week\innovation week\obj\Debug\net6.0\innovation week.AssemblyInfo.cs
+C:\myData\git\innovation week\innovation week\innovation week\obj\Debug\net6.0\innovation week.csproj.CoreCompileInputs.cache
+C:\myData\git\innovation week\innovation week\innovation week\obj\Debug\net6.0\innovation week.dll
+C:\myData\git\innovation week\innovation week\innovation week\obj\Debug\net6.0\refint\innovation week.dll
+C:\myData\git\innovation week\innovation week\innovation week\obj\Debug\net6.0\innovation week.pdb
+C:\myData\git\innovation week\innovation week\innovation week\obj\Debug\net6.0\innovation week.genruntimeconfig.cache
+C:\myData\git\innovation week\innovation week\innovation week\obj\Debug\net6.0\ref\innovation week.dll

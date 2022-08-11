@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "innovation week", "innovation week\innovation week.csproj", "{A5B41892-00C5-4304-92C3-1EEF2C78206B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5B41892-00C5-4304-92C3-1EEF2C78206B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B41892-00C5-4304-92C3-1EEF2C78206B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B41892-00C5-4304-92C3-1EEF2C78206B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B41892-00C5-4304-92C3-1EEF2C78206B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE7696D3-5A30-4809-88D3-51C1B3182327}
+	EndGlobalSection
+EndGlobal
